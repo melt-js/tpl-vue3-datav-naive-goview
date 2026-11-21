@@ -1,0 +1,1 @@
+import{b as t,c as o,n as s,e as n,r as c,o as _}from"./index-012cb0c4.js";const a={},r={class:"go-project-template-market"},d={class:"content-box"};function p(i,l){const e=c("n-empty");return _(),o("div",r,[s("div",d,[n(e,{size:"large",description:"模板市场暂未接入，可直接在“我的模板”中保存与复用大屏工程"})])])}const x=t(a,[["render",p],["__scopeId","data-v-8565432b"]]);export{x as default};
